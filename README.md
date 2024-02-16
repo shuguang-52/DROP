@@ -35,7 +35,7 @@ You can download the human parsing labels of five datasets: Market-1501, DukeMTM
 ## Training
 Training configs for five datasets (Market-1501, DukeMTMC-reID, Occluded-Duke, Occluded-ReID, and P-DukeMTMC) are provided in the `configs/drop/` folder. 
 
-  CUDA_VISIBLE_DEVICES=6,7 python scripts/main.py --config-file configs/drop/drop_occ_duke_train.yaml
+    CUDA_VISIBLE_DEVICES=6,7 python scripts/main.py --config-file configs/drop/drop_occ_duke_train.yaml
 
 # Comparsion with SOTA Occluded ReID methods
 
