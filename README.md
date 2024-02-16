@@ -4,7 +4,7 @@ DROP: Decouple Re-Identification and Human Parsing with Task-specific Features f
 [![arXiv](https://img.shields.io/badge/arXiv-2401.18032-<COLOR>.svg)](https://arxiv.org/abs/2401.18032)
 
 # News
-[] Coming soon
+- [2024.02.16] Source code will be coming soon 🚀. I update the decouple design with condition control to adapt re-identification and human parsing.
 
 # Set up
 ## Download human parsing labels
