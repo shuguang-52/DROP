@@ -1,5 +1,6 @@
 # DROP
 DROP: Decouple Re-Identification and Human Parsing with Task-specific Features for Occluded Person Re-identification
+
 [![arXiv](https://img.shields.io/badge/arXiv-2401.18032-<COLOR>.svg)](https://arxiv.org/abs/2401.18032）
 
 # News
