@@ -11,7 +11,6 @@ We following the BPBreID. You can download the human parsing labels of five data
 
 ## The effect of different sizes
 
-Apologies for the confusion. Here's the corrected table with the metrics properly aligned:
 
 | Image Size | Method | Rank-1 | mAP  |
 |------------|--------|--------|------|
